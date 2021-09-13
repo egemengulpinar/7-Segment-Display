@@ -1,0 +1,30 @@
+< THE SYMBOL TABLE >  8086_Memory.exe  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+DATA                     	00000     	-5        	SEGMENT   	(ITSELF)  
+TASK_DATA                	00000     	1         	VAR       	data      
+TASK_ID                  	00064     	2         	VAR       	data      
+STACK                    	00007     	-5        	SEGMENT   	(ITSELF)  
+CODE                     	00017     	-5        	SEGMENT   	(ITSELF)  
+START                    	00000     	-1        	LABEL     	code      
+BEGIN                    	0000D     	-1        	LABEL     	code      
+EELOOP                   	00016     	-1        	LABEL     	code      
+NEXT1                    	00024     	-1        	LABEL     	code      
+NEXT2                    	00030     	-1        	LABEL     	code      
+NEXT3                    	0003C     	-1        	LABEL     	code      
+GO                       	00046     	-1        	LABEL     	code      
+EELOOP2                  	00051     	-1        	LABEL     	code      
+NEXT12                   	0005F     	-1        	LABEL     	code      
+NEXT22                   	0006B     	-1        	LABEL     	code      
+NEXT32                   	00077     	-1        	LABEL     	code      
+GO2                      	00081     	-1        	LABEL     	code      
+EELOOP3                  	0008C     	-1        	LABEL     	code      
+NEXT13                   	0009A     	-1        	LABEL     	code      
+NEXT23                   	000A6     	-1        	LABEL     	code      
+NEXT33                   	000B2     	-1        	LABEL     	code      
+GO3                      	000BC     	-1        	LABEL     	code      
+===================================================================================================
+[ 13-Jan-14  --  10:05:36 AM ] 
+< END >
+ 
