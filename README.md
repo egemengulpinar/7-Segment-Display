@@ -59,7 +59,7 @@ Clone the project
 *Follow the ***explanation video***, then select same option and setting to execute project.*
 
 
-- Open emu8086 and import 8086_Memory.exe.asm file. Save assembly file on emu8086 with ***.exe*** file format.
+- Open emu8086 and import `8086_Memory.exe.asm` file. Save assembly file on emu8086 with ***.exe*** file format.
 
 - Open `Proteus Software` and import `7  segment display(17-155-014).pdsprj` project file.
 
